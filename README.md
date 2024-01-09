@@ -36,8 +36,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Projet d'Aéronautique</h1>
-    <p>Merci de soutenir ce projet en effectuant un dépôt sur notre wallet.</p>
+    <h1>Support the project</h1>
+    <p>Merci de soutenir ce projet en effectuant un dépôt sur notre wallet.
+       Please support this project by making a deposit into our wallet.</p>
     <a href="https://etherscan.io/address/0x3b7183cebe4326d848b095676CCB3eB99015876D" target="_blank">Accéder au wallet</a>
 </body>
 </html>
