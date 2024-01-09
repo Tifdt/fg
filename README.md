@@ -1,30 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aérobotique : Confort et déplacement aérien</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        .header {
-            background-color: #f4f4f4;
-            padding: 20px;
-            text-align: center;
-        }
-        .section {
-            margin: 60px 0;
-        }
-        .section h2 {
-            margin-bottom: 10px;
-        }
-        .section p {
-            text-align: justify;
-        }
-    </style>
-</head>
 <body>
     <div class="header">
         <h1>Projet Aéronautique</h1>
