@@ -15,7 +15,7 @@
         <ul>
             <li>Confort et commodité: Grâce à des matériaux de pointe et une architecture optimisée, nos passagers profiteront d'un environnement silencieux et presque frictionnel, idéal pour se reposer et profiter de leur voyage.</li>
             <li>Efficacité: Notre véhicule est doté d'un système de propulsion révolutionnaire, offrant des performances de pointe et une consommation d'énergie très faible.</li>
-            <li>Résistance et fiabilité: Le véhicule a été conçu pour résister aux pires conditions météorologiques et à de longues périodes de vol. Son architecture solide et robuste garantit un niveau de sécurité exceptionnel.</li>
+            <li>Résistance et fiabilité: Conçu pour résister aux pires conditions météorologiques et à de longues périodes de vol. Son architecture solide et robuste garantit un niveau de sécurité exceptionnel.</li>
         </ul>
     </div>
     <div class="section">
