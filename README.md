@@ -37,7 +37,7 @@
 </head>
 <body>
     <h1>Projet d'Aéronautique</h1>
-    <p>Merci de soutenir ce projet en effectuant un dépôt sur notre wallet 0x3b7183cebe4326d848b095676CCB3eB99015876D.</p>
+    <p>Merci de soutenir ce projet en effectuant un dépôt sur notre wallet.</p>
     <a href="https://etherscan.io/address/0x3b7183cebe4326d848b095676CCB3eB99015876D" target="_blank">Accéder au wallet</a>
 </body>
 </html>
