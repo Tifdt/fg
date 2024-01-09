@@ -34,8 +34,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projet d'aéronautique - Wallet 0x3b7183cebe4326d848b095676CCB3eB99015876D</title>
-    <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
