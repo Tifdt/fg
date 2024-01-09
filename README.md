@@ -8,7 +8,7 @@
     </div>
     <div class="section">
         <h2>Description du projet</h2>
-        <p>Ce projet en Aéronautique a pour but de concevoir et développer un système de transport aérien sans équivalent en matière de confort et de mobilité. Notre équipe d'experts travaille sans relâche pour perfectionner ce véhicule innovant, capable de voyager à travers le ciel tout en offrant un environnement propice au repos et au bien-être.</p>
+        <p>Ce projet en Aéronautique veille à concevoir et développer un système de transport aérien sans équivalent en matière de confort et de mobilité. Notre équipe d'experts travaille sans relâche pour perfectionner ce véhicule innovant, capable de voyager à travers le ciel tout en offrant un environnement propice au repos et au bien-être.</p>
     </div>
     <div class="section">
         <h2>Avantages du projet</h2>
