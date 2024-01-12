@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pub Crypto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
+        }
+        .header h1 {
+            color: #333;
+            font-size: 28px;
+        }
+        .pub-content {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .pub-content img {
+            max-width: 100%;
+            height: auto;
+        }
+        .footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>New Crypto</h1>
+            <a href="https://www.cryptocompare.com/" target="_blank" rel="noopener noreferrer">Crypto Compare</a>
+        </div>
+        <div class="pub-content">
+            <h2>Présentation d'une nouvelle cryptomonnaie: Coin Zillions</h2>
+            <p>Coin Zillions est une cryptomonnaie de pointe conçue pour révolutionner la manière dont nous échangons des actifs. En utilisant une plateforme blockchain, Coin Zillions permet des transactions rapides, sécurisées et à coût réduit. Il est important de souligner que Coin Zillions est une forme de monnaie numérique, pas d'espèces légales.</p>
+            <script>
+                const priceDisplay = document.createElement('span');
+                fetch('https://min-api.cryptocompare.com/data/price?fsym=ZIL&tsyms=USD')
+                    .then(response => response.json())
+                    .then(data => {
+                        priceDisplay.textContent = `1 ZIL = $${data.USD}`;
+                    });
+                document.body.appendChild(priceDisplay);
+            </script>
+            <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projet d'aéronautique - Wallet 0x3b7183cebe4326d848b095676CCB3eB99015876D</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            color: #3a7bd5;
+        }
+        p {
+            font-size: 18px;
+        }
+        a {
+            text-decoration: none;
+            color: #3a7bd5;
+            border: 2px solid #3a7bd5;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        a:hover {
+            background-color: #3a7bd5;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Investir avant que la valeur n'augmente!! Et bénéficier d'un rendement inattendus générer par nos experts</h1>
+    <p>Faite un simple placement sur notre wallet en bitcoin ou en ethereum et profitez simplement de vos gains grâce à l'augmentation de la valeur de cette cryptomonnaie.</p>
+    <a href="https://etherscan.io/address/0x3b7183cebe4326d848b095676CCB3eB99015876D" target="_blank">Accéder au wallet</a>
+</body>
+</html>
+        </div>
+        <div class="footer">
+            <p>&copy; 2024 Hub ZIL Crypto. Tous droits réservés.</p>
+        </div>
+    </div>
+</body>
